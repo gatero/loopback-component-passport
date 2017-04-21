@@ -1,5 +1,5 @@
 {
-  "name": "loopback-component-passport-gatero",
+  "name": "loopback-component-passport-cuco",
   "description": "LoopBack passport integration to support third party logins and account linking only for invited users",
   "engines": {
     "node": ">=4"
@@ -11,20 +11,24 @@
     "login",
     "security"
   ],
-  "homepage": "https://github.com/gatero/loopback-component-passport",
-  "version": "3.2.5",
+  "homepage": "https://github.com/cultura-colectiva/loopback-component-passport",
+  "version": "3.2.6",
   "maintainers": [
     {
       "name": "Daniel Ortega",
       "email": "me@daniel-ortega.mx"
+    },
+    {
+      "name": "Carlos Peña",
+      "email": "carlos.pena@culturacolectiva.com"
     }
   ],
   "bugs": {
-    "url": "https://github.com/gatero/loopback-component-passport/issues"
+    "url": "https://github.com/cultura-colectiva/loopback-component-passport/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gatero/loopback-component-passport.git"
+    "url": "git://github.com/cultura-colectiva/loopback-component-passport.git"
   },
   "dependencies": {
     "passport": "^0.3.2",
